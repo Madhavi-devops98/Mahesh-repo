@@ -1,0 +1,4 @@
+A class is a blueprint, template, or category used to define the structure,
+attributes, and behaviors of objects in programming. It represents
+a logical grouping, such as a "Car" class defining color and speed,
+which is then instantiated into actual objects (e.g., a red car)
